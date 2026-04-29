@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranith Konda</h1>
-<h3 align="center">I’m a 3rd-year CSE student who loves building real-world projects 💡. I code in Java, Python, React, and Kotlin, and explore AI, Android, and full-stack dev 🤖📱. I also use Docker, Jenkins, Git, and GitHub ⚙️. I enjoy solving problems and creating scalable, impactful solutions 🚀.</h3>
+<h3 align="center">I’m a 4th-year CSE student who loves building real-world projects 💡. I code in Java, Python, React, and Kotlin, and explore AI, Android, and full-stack dev 🤖📱. I also use Docker, Jenkins, Git, and GitHub ⚙️. I enjoy solving problems and creating scalable, impactful solutions 🚀.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hello-world07&label=Profile%20views&color=0e75b6&style=flat" alt="hello-world07" /> </p>
 
